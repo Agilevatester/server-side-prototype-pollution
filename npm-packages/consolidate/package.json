@@ -8,6 +8,6 @@
   "dependencies": {
     "consolidate": "0.16.0",
     "jazz": "^0.0.18",
-    "underscore": "^1.13.6"
+    "underscore": "^1.13.7"
   }
 }
