@@ -7,7 +7,7 @@
         "dev": "nodemon ./bin/www"
     },
     "dependencies": {
-        "blade": "^3.3.1",
+        "blade": "^3.3.2",
         "ion-parser": "^0.5.2"
     },
     "devDependencies": {
