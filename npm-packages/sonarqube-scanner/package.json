@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "sonarqube-scanner": "^3.0.1"
+    "sonarqube-scanner": "^3.5.0"
   }
 }
