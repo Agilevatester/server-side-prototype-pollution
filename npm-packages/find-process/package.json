@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "find-process": "^1.4.7"
+    "find-process": "^1.4.11"
   }
 }
