@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "coffee": "^5.5.0"
+    "coffee": "^5.5.1"
   }
 }
