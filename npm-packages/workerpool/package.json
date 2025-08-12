@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "workerpool": "^6.4.0"
+    "workerpool": "^6.5.1"
   }
 }
