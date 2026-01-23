@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "binary-parser": "^2.2.1"
+    "binary-parser": "^2.3.0"
   }
 }
