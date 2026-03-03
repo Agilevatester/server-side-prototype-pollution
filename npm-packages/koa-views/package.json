@@ -9,6 +9,6 @@
     "koa": "^2.14.2",
     "koa-views": "^8.0.0",
     "supertest": "^6.3.3",
-    "underscore": "^1.13.6"
+    "underscore": "^1.13.8"
   }
 }
