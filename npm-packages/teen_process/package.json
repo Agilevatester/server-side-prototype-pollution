@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "teen_process": "^2.0.4"
+    "teen_process": "^2.1.0"
   }
 }
