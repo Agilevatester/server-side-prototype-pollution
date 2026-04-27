@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "winreg": "^1.2.4"
+    "winreg": "^1.2.5"
   }
 }
