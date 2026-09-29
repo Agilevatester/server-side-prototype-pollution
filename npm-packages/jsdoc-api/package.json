@@ -6,6 +6,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "jsdoc-api": "^8.0.0"
+    "jsdoc-api": "^8.1.0"
   }
 }
